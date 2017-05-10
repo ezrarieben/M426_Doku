@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,7 +37,7 @@
 	</form>
 </body>
 </html>
-=======
+
 <html style="color:#e7e7e7">
 	<head>
 		<!-- Latest compiled and minified CSS -->
@@ -88,4 +88,4 @@
     <div class="footer_contents"><button id="btnchat" type="button" class="btn btn-primary">Chat</button></div>
 
 </html>
->>>>>>> sprint-01-design
+
